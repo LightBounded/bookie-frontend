@@ -1,5 +1,5 @@
 {
-  "name": "vue-book-store-site",
+  "name": "vue-book-store-management-site",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
